@@ -16,7 +16,7 @@ Data is stored in a text file (`Bank.txt`) to ensure persistence between runs.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 - `main.cpp` → Full application source code.
 - `Bank.txt` → Database file (generated automatically if not found).
 
