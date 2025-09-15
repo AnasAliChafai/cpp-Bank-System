@@ -6,7 +6,7 @@ Data is stored in a text file (`Bank.txt`) to ensure persistence between runs.
 
 ---
 
-## 🚀 Features
+## Features
 - 📋 **Show Client List** → Display all clients with their details.
 - ➕ **Add New Client** → Create new bank accounts with balance.
 - ❌ **Delete Client** → Remove client by account number.
